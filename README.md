@@ -3,9 +3,8 @@
 AvidE2EVideoApp is a video/chat app built on top of PeerJS and webRTC by Noel Pereira.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![AvidE2ELoginPage](https://drive.google.com/file/d/1MiVBZ0QVHAYFPuIrZY2_BQREojVMCTIX/view?usp=sharing)
+![Description of Image](https://drive.google.com/uc?export=view&id=1MiVBZ0QVHAYFPuIrZY2_BQREojVMCTIX)
 
-![AvidE2EMainPage](https://drive.google.com/file/d/1MiVBZ0QVHAYFPuIrZY2_BQREojVMCTIX/view?usp=share_link)
 
 ## Demo Video-
 https://drive.google.com/file/d/1hAQu0mJeOnST2zqtZSt3bPou3QzyhlIk/view?usp=share_link
