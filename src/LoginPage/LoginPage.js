@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { connect } from "react-redux";
+//custom Logo
 import logo from "../resources/AvidE2ELogo.png";
 import UsernameInput from "./components/UsernameInput";
 import SubmitButton from "./components/SubmitButton";
@@ -18,7 +19,6 @@ const LoginPage = ({ saveUsername }) => {
     saveUsername(username);
     history.push("/dashboard");
   };
-
   return (
     <div className="login-page_container background_main_color">
       <div className="login-page_login_box background_secondary_color">
