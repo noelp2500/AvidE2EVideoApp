@@ -8,10 +8,10 @@ Prior to this, setup AvidE2EVideoAppServer in a separate terminal.
 
 After that, in the project directory, you can run:
 
+To install the required packages-
 ### `npm install`
 
-To install the required packages
-
+To run-
 ### `npm start`
 
 
